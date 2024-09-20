@@ -21,7 +21,7 @@ repository               : "github.com/Camilo6190/camilo-jaramillo"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "git.jpg"
   name             : "Camilo J. Sirguiado"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
